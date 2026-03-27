@@ -2,6 +2,9 @@
 ==============================================================================
 Script 05 — Predictions & Policy-Level Analysis
 ==============================================================================
+Author: Mitrajit Ghorui (Keykyrios)
+GitHub: https://github.com/Keykyrios/RuralMobility-ML
+==============================================================================
 An end-to-end Machine Learning pipeline for predicting Rural Trip Generation.
 
 This script produces the final outputs for the project:

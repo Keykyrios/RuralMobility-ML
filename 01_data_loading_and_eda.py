@@ -2,6 +2,9 @@
 ==============================================================================
 Script 01 — Data Loading & Exploratory Data Analysis (EDA)
 ==============================================================================
+Author: Mitrajit Ghorui (Keykyrios)
+GitHub: https://github.com/Keykyrios/RuralMobility-ML
+==============================================================================
 An end-to-end Machine Learning pipeline for predicting Rural Trip Generation.
 
 This script performs a comprehensive exploratory analysis of the rural

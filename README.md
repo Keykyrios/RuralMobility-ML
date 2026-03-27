@@ -356,10 +356,30 @@ Please ensure any newly written algorithm processes properly inherit configurati
 
 ## 18. License <a name="license"></a>
 
-This project is licensed strictly under the permissive **MIT License**. Permissible for broad research, academic adaptation, and general open-source utilization with the singular caveat of standard liability nullification clauses. See the physical `LICENSE` file for broad details. 
+This project is licensed strictly under the permissive **MIT License**. Copyright (c) 2026 Mitrajit Ghorui (Keykyrios).
 
 ---
 
-## 19. Acknowledgements <a name="acknowledgements"></a>
+## 19. Citation <a name="citation"></a>
+
+If you use this software or the associated research methodology in your work, please cite it as follows:
+
+**APA:**
+Ghorui, M. (2026). Rural Trip Generation Prediction Pipeline (Version 1.0.0) [Computer software]. https://github.com/Keykyrios/RuralMobility-ML
+
+**BibTeX:**
+```bibtex
+@software{Ghorui_Rural_Trip_Generation_2026,
+  author = {Ghorui, Mitrajit},
+  title = {Rural Trip Generation Prediction Pipeline},
+  version = {1.0.0},
+  url = {https://github.com/Keykyrios/RuralMobility-ML},
+  date = {2026-03-27}
+}
+```
+
+---
+
+## 20. Acknowledgements <a name="acknowledgements"></a>
 
 This analytical capability represents intensive modernisations of classical travel demand generation techniques originally codified by the Institute of Transportation Engineers (ITE). It fuses legacy assumptions with cutting-edge machine learning computational paradigms dynamically identifying complex interaction networks previously invisible to classical trip-rate averaging practices. 

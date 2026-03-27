@@ -2,6 +2,9 @@
 ==============================================================================
 Configuration Module — Rural Trip Generation Prediction Pipeline
 ==============================================================================
+Author: Mitrajit Ghorui (Keykyrios)
+GitHub: https://github.com/Keykyrios/RuralMobility-ML
+==============================================================================
 An end-to-end Machine Learning pipeline for predicting Rural Trip Generation.
 
 Centralized configuration for file paths, feature definitions, model

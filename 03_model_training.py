@@ -2,6 +2,9 @@
 ==============================================================================
 Script 03 — Model Training, Cross-Validation & Hyperparameter Tuning
 ==============================================================================
+Author: Mitrajit Ghorui (Keykyrios)
+GitHub: https://github.com/Keykyrios/RuralMobility-ML
+==============================================================================
 An end-to-end Machine Learning pipeline for predicting Rural Trip Generation.
 
 This script trains and compares multiple regression algorithms:

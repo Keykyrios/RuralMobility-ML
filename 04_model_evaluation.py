@@ -2,6 +2,9 @@
 ==============================================================================
 Script 04 — Model Evaluation & Diagnostic Analysis
 ==============================================================================
+Author: Mitrajit Ghorui (Keykyrios)
+GitHub: https://github.com/Keykyrios/RuralMobility-ML
+==============================================================================
 An end-to-end Machine Learning pipeline for predicting Rural Trip Generation.
 
 Comprehensive model evaluation on the held-out test set:

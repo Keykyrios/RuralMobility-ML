@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ghorui"
+  given-names: "Mitrajit"
+  alias: "Keykyrios"
+title: "Rural Trip Generation Prediction Pipeline"
+version: 1.0.0
+date-released: 2026-03-27
+url: "https://github.com/Keykyrios/RuralMobility-ML"
+repository-code: "https://github.com/Keykyrios/RuralMobility-ML"
+license: MIT
+abstract: "An end-to-end Machine Learning pipeline for predicting Rural Trip Generation using household demographic data."
+keywords:
+  - "rural transportation"
+  - "trip generation"
+  - "machine learning"
+  - "civil engineering"
+  - "xgboost"
