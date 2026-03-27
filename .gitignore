@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*$py.class
+# Temporary experiment files
+TRY*
+TRY*.txt
+TRY*.ipynb
+
+# Output directories holding large generated models or transient data
+output/models/
+output/figures/
+output/latex_tables/
+output/results/
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
